@@ -1,4 +1,6 @@
 # PascleNotation
+
+# OOP fundamentals: Encapsulation, Abstraction, Inheritance, Polymorphism
 class Robot():
 
     def __init__(self, name, manufacturer, myear):
@@ -18,6 +20,7 @@ class Robot():
             print("Given number is even")
         else: 
             print("Given number is odd")
+
 
 robo_22b = Robot('alexa', 'amazon', '2014')
 robo_562 = Robot('Siri', 'Apple', '2008')
